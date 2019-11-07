@@ -1,5 +1,5 @@
 # Paraguay
-Cartografía digital del carbono orgánico de los suelos en el Paraguay
+Cartografía digital del carbono orgánico de los suelos en el Paraguay.
 
 Arnulfo Encina, Danny Ríos, Víctor Sevilla, Mario Guevara , Miguel Ken.
 
