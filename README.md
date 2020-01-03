@@ -1,7 +1,7 @@
 # Paraguay
 Cartografía digital del carbono orgánico de los suelos en el Paraguay.
 
-Arnulfo Encina, Danny Ríos, Víctor Sevilla, Mario Guevara , Miguel Ken.
+Arnulfo Encina, Danny Ríos, Víctor Sevilla, Mario Guevara , Guillermo Federico Olmedo, Miguel Ken
 
 El propósito de esta investigación fue estimar las reservas de Carbono Orgánico de los suelos (COS)
 (0 a 30 cm) del Paraguay, evaluando cuáles covariables ambientales influyen en dicha reserva, como es
